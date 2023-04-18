@@ -1,9 +1,3 @@
-// darkmode
-function myFunction() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
-}
-
 // home page reveal
 myID = document.getElementById("head");
 
@@ -18,7 +12,7 @@ var myScrollFunc = function () {
 
 // intro typewriter
 var typed =new Typed(".multi",{
-    strings:["Software Engineer","Frontend Developer","Illustrator",],
+    strings:["Software Engineer","Frontend Developer", "Programmer"],
     typeSpeed:100,
     backSpeed:100,
     backDelay: 1000,
