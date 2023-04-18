@@ -175,7 +175,13 @@ a {
   text-align: center;
 }
 
-
+.hellopara{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    padding-top: 2%;
+    font-weight: bold;
+}
 .home_button {
   margin-top: 45px;
   display: flex;
@@ -219,6 +225,12 @@ a {
   margin: auto;
   margin-top: 100px;
 }
+/* .about_description{
+  width: 400px;
+  text-justify: center;
+  padding: 20px;
+  
+} */
 
 .box {
   display: flex;
@@ -291,7 +303,7 @@ a {
   margin-top: 100px;
   margin-bottom: 100px;
   /* background-color: #dbb6ee; */
-  background-image: linear-gradient(rgba(36, 23, 22, 0.801),rgba(36, 23, 22, 0.8)),url('../images/skillsbg.jpg');
+  background-image: linear-gradient(rgba(36, 23, 22, 0.76),rgba(36, 23, 22, 0.8)),url('../images/skillsbg.jpg');
   background-attachment: fixed;
   box-shadow: 0 7px 20px 5px #00000088;
 }
@@ -303,7 +315,7 @@ a {
   justify-content: center
 }
 .skill_description{
-  width: 400px;
+  width: 500px;
   padding: 50px;
   text-align: center;
 }
@@ -380,6 +392,12 @@ a {
 
 .show {
   display: block;
+}
+.workpara{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    padding-bottom: 2%;
 }
 .work__filters {
   display: flex;
