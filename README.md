@@ -2,7 +2,7 @@
 <h1 align="center">Portfolio Website</h1>
 
 <h2 align="center">
-<a href="https://immadsidd.github.io/xyz/index.html">Demo</a>
+<a href="https://mahamarshad02.github.io/portfolio/index.html">Demo</a>
 </h2>
 
 
@@ -28,7 +28,7 @@
    <li> Contact Information </li>
    <li> Relevant Social Media Accounts </li>
    <li> Respomsive </li>
-   <li> CMenu location indicator </li>
+   <li> Menu location indicator </li>
 </ol>
 
 ## Portfolio Sections    
